@@ -27,7 +27,7 @@ This Python script scrapes the latest news headlines from the BBC News website. 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/news-scraper.git
+   git clone https://github.com/Daniel-Abiy/news-scraper
    ```
 
 2. Navigate to the project folder:
